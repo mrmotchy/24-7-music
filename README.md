@@ -29,7 +29,7 @@
   
 ## Made with ❤️ and javascript
 
-![](https://i.imgur.com/0zavVvLh.gif)
+![](https://imgur.com/0zavVvL.gif)
 
 ## Installation
 
