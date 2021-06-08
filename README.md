@@ -24,12 +24,12 @@
 
 ## Working perfectly
 
-![](https://i.imgur.com/0zavVvL.gif)
+![](https://github.com/mrmotchy/stuff/blob/main/Unb34343enannt.PNG?raw=true)
   
   
 ## Made with ❤️ and javascript
 
-![](https://imgur.com/0zavVvL.gif)
+![](https://github.com/mrmotchy/stuff/blob/main/Unbe4433nannt.PNG?raw=true)
 
 ## Installation
 
