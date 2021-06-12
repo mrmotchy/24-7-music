@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/jagrosh/MusicBot.svg)](https://discord.gg/9ZrzNkzeN4)
 [![Release](https://img.shields.io/github/release/jagrosh/MusicBot.svg)](https://discord.gg/9ZrzNkzeN4)
 [![License](https://img.shields.io/github/license/jagrosh/MusicBot.svg)](https://discord.gg/9ZrzNkzeN4)
-[![Discord](https://discordapp.com/api/guilds/147698382092238848/widget.png)](https://discord.gg/9ZrzNkzeN4)<br>
+[![Discord](https://discordapp.com/api/guilds/147698382092238848/widget.png)](https://dsc.gg/dst74)<br>
 [![CircleCI](https://img.shields.io/circleci/project/github/jagrosh/MusicBot/master.svg)](https://discord.gg/9ZrzNkzeN4)
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/gdu6nyte5psj6xfk/branch/master?svg=true)](https://discord.gg/9ZrzNkzeN4)
 [![CodeFactor](https://www.codefactor.io/repository/github/jagrosh/musicbot/badge)](https://discord.gg/9ZrzNkzeN4)
