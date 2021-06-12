@@ -16,7 +16,7 @@
 [![Setup](http://i.imgur.com/VvXYp5j.png)](https://www.youtube.com/channel/UCmkPzf-eAJsiuCh-5kz4Abw)
 
 ## Features
-  * **Watch my YT video & host your bot 24/7**
+  * **Watch my YT video & host your [bot 24/7](https://dsc.gg/dst74)**
   * Easy to run
   * stays 24/7 in call
   * No external keys needed (besides a Discord Bot token)
